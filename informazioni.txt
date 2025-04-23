@@ -1,0 +1,10 @@
+Steve;Jobs;via Cupertino 13;0612344;56
+Bill;Gates;via Redmond 10;06688989;60
+Babbo;Natale;via del Polo Nord;00000111;99
+Mario;Rossi;via Roma 42;3334445566;45
+Anna;Verdi;piazza Garibaldi 7;3491234567;32
+Luca;Bianchi;viale Europa 15;3338889900;28
+Sofia;Russo;corso Italia 22;3312345678;35
+Giulia;Ferrari;via Dante 9;3478889999;41
+Marco;Esposito;largo Colombo 3;3459876543;53
+Francesca;Ricci;via Mazzini 18;3661234567;39
